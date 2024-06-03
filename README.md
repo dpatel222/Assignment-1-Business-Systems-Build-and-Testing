@@ -3,7 +3,7 @@
 
 # Build image
 ```
-build image docker build . -t "patel_deep_coding_assignment_11:v1.0"
+docker build . -t "patel_deep_coding_assignment_11:v1.0"
 ```
 
 
