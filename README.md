@@ -1,4 +1,4 @@
-
+First clone the git repo then do the following commands where you have cloned the repo
 
 
 # Build image
